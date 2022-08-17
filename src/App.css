@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.btn-yes:focus {
+  background-color: #DD9F52;
+}

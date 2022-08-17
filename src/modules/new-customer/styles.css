@@ -1,0 +1,7 @@
+.btn-yes:focus {
+    background-color: #DD9F52;
+  }
+
+  .ui-dialog-footer .ui-button {
+    background: #DD9F52;
+}
